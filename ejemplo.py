@@ -1,6 +1,7 @@
 #-*- encoding: utf-8 -*-
 #Escriba un PROGRAMA que pida dos números enteros y que calcule su división,
 #escribiendo si la división es exacta o no.
+#ya esta solucionado el problema
 import os
 print 'Escribe un numero entero: '
 nNumero1=int(input())
